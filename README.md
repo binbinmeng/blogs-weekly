@@ -25,6 +25,9 @@
   - blitzNet
   
 5. classification
+  - ResNext
+  - DenseNet
+  - [DPN(dual path network) ](https://blog.csdn.net/u014380165/article/details/75676216)
   - edlenet
   - resnet (the recent paper about its essence)
   - mobilenet v1 v2
