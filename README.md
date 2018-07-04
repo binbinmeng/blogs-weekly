@@ -36,8 +36,9 @@
 6. model optimization & acceleration
   - depth-wise convolution
   - group convolution
-  - channel pruning
-  - distill
+  - [network slimming](https://blog.csdn.net/u014380165/article/details/79969132)
+  - [channel pruning](https://blog.csdn.net/u014380165/article/details/79811779)
+  - [distill](https://github.com/NervanaSystems/distiller)
   - winograd
   - quatization(8bit 4bit xnor) and fix-point
   - low rank decomposition
