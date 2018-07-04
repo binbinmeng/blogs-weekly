@@ -47,5 +47,6 @@
   - deconvolution
   - roi pooling
   - RPN
+  - optimization method(SGD,Adam,RMSProp)
   
 
