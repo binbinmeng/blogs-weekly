@@ -49,4 +49,6 @@
   - RPN
   - optimization method(SGD,Adam,RMSProp)
   
+ 8. projects
+  - lane detection
 
