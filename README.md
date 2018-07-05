@@ -53,6 +53,7 @@
   - [RPN](https://blog.csdn.net/u014380165/article/details/80380669)
   - optimization method(SGD,Adam,RMSProp)
   - [anchor](https://blog.csdn.net/u014380165/article/details/80379812)
+  - 3D Convolution
   
  8. projects
   - lane detection
