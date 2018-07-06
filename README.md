@@ -60,3 +60,7 @@
   - lane detection
   - orb slam
 
+ 9. image stitching
+  - [RANSAC](https://blog.csdn.net/zinnc/article/details/52319716)
+  
+ 10. vision distance estimation
