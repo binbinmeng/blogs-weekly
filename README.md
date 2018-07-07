@@ -46,6 +46,7 @@
   - tucker tensor decomposation
 
 7. deep learning tricks
+  - ohem
   - 1x1 convolution
   - deformable convolution
   - dilation
