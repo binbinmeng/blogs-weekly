@@ -58,6 +58,7 @@
   - 3D Convolution
   
  8. projects
+  - cross walk detection
   - lane detection
   - orb slam
 
