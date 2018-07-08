@@ -65,3 +65,5 @@
   - [RANSAC](https://blog.csdn.net/zinnc/article/details/52319716)
   
  10. visual odometry
+ 
+ 11. ROS(foundation of robot)
