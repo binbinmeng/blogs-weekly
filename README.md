@@ -60,6 +60,7 @@
  8. projects
   - cross walk detection
   - lane detection
+  - multi-object tracking(initialize with IDs and locations, track all objects)
   - orb slam
 
  9. image stitching
