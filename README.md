@@ -48,6 +48,8 @@
 7. deep learning tricks
   - ohem
   - 1x1 convolution
+  - depth wise convolution
+  - group convolution
   - deformable convolution
   - dilation
   - deconvolution
