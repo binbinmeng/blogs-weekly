@@ -71,3 +71,6 @@
  10. visual odometry
  
  11. ROS(foundation of robot)
+ 
+ 12. [Efficient Methods and Hardware for Deep Learning](https://platformlab.stanford.edu/Seminar%20Talks/retreat-2017/Song%20Han.pdf)
+      also see [this](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf)
