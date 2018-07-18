@@ -64,6 +64,7 @@
   - lane detection
   - multi-object tracking(initialize with IDs and locations, track all objects)
   - [orb slam](https://blog.csdn.net/u010128736/article/list/1)
+  - edlenet c++ implementation
 
  9. image stitching
   - [RANSAC](https://blog.csdn.net/zinnc/article/details/52319716)
