@@ -38,12 +38,13 @@
   - depth-wise convolution
   - group convolution
   - [network slimming](https://blog.csdn.net/u014380165/article/details/79969132)
-  - [channel pruning](https://blog.csdn.net/u014380165/article/details/79811779)
+  - [channel pruning](https://blog.csdn.net/u014380165/article/details/79811779) and [this original paper](https://github.com/yihui-he/channel-pruning)
   - [distill](https://github.com/NervanaSystems/distiller)
   - winograd
   - quatization(8bit 4bit xnor) and fix-point
   - low rank decomposition
   - tucker tensor decomposation
+  - [TensorRT](https://github.com/chenzhi1992/TensorRT-SSD)
 
 7. deep learning tricks
   - ohem
