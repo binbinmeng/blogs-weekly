@@ -59,7 +59,7 @@
   - optimization method(SGD,Adam,RMSProp)
   - [anchor](https://blog.csdn.net/u014380165/article/details/80379812)
   - 3D Convolution
-  - [affine transform](https://www.matongxue.com/madocs/244.html)
+  - [affine transform](https://www.matongxue.com/madocs/244.html), the classic $ y = Wx + b $
   
  8. projects
   - cross walk detection
