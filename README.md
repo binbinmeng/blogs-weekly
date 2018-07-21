@@ -72,9 +72,13 @@
   - [RANSAC](https://blog.csdn.net/zinnc/article/details/52319716)
   
  10. visual odometry
-  - [点云数据处理方法概述](http://www.p-chao.com/2017-06-11/%E7%82%B9%E4%BA%91%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95%E6%A6%82%E8%BF%B0/)
  
  11. ROS(foundation of robot)
+  - [apollo lidar](https://blog.csdn.net/qq_33801763/article/details/79092240)
+  - [点云数据处理方法概述](http://www.p-chao.com/2017-06-11/%E7%82%B9%E4%BA%91%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95%E6%A6%82%E8%BF%B0/)
+  - [点云数据处理学习笔记](https://blog.csdn.net/xs1997/article/details/78501120)
+  - [基于点云的3D障碍物检测](https://blog.csdn.net/qq_33801763/article/details/79283017)
+  
  
  12. [Efficient Methods and Hardware for Deep Learning](https://platformlab.stanford.edu/Seminar%20Talks/retreat-2017/Song%20Han.pdf)
       also see [this](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf) and the [video](https://www.youtube.com/watch?v=eZdOkDtYMoo)  another course [Hardware Accelerators for Machine Learning](https://cs217.github.io/)
