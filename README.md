@@ -72,6 +72,7 @@
   - [RANSAC](https://blog.csdn.net/zinnc/article/details/52319716)
   
  10. visual odometry
+  - [点云数据处理方法概述](http://www.p-chao.com/2017-06-11/%E7%82%B9%E4%BA%91%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95%E6%A6%82%E8%BF%B0/)
  
  11. ROS(foundation of robot)
  
