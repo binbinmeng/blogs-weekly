@@ -63,7 +63,7 @@
   
  8. projects
   - cross walk detection
-  - lane detection   (pls refer to hzh's work)(https://zhouxiaofan.github.io/)
+  - lane detection   [pls refer to hzh's work](https://zhouxiaofan.github.io/)
   - multi-object tracking(initialize with IDs and locations, track all objects)
   - [orb slam](https://blog.csdn.net/u010128736/article/list/1)
   - edlenet c++ implementation
