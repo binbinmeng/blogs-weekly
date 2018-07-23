@@ -83,3 +83,6 @@
  
  12. [Efficient Methods and Hardware for Deep Learning](https://platformlab.stanford.edu/Seminar%20Talks/retreat-2017/Song%20Han.pdf)
       also see [this](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf) and the [video](https://www.youtube.com/watch?v=eZdOkDtYMoo)  another course [Hardware Accelerators for Machine Learning](https://cs217.github.io/)
+      
+ 13. 图像处理
+ - [二值图像的连通域分析](https://blog.csdn.net/qq_37059483/article/details/78018539)
