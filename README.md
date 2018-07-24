@@ -68,6 +68,7 @@
   - [orb slam](https://blog.csdn.net/u010128736/article/list/1)
   - edlenet c++ implementation
   - tensorboard visualize all training process [1](http://tensorboardx.readthedocs.io/en/latest/tutorial_zh.html#id1) [2](https://github.com/lanpa/tensorboardX)
+  - pytorch study [marvan zhou's github](https://github.com/MorvanZhou/PyTorch-Tutorial) and [his website](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
 
  9. image stitching
   - [RANSAC](https://blog.csdn.net/zinnc/article/details/52319716)
