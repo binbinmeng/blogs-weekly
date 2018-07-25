@@ -10,6 +10,7 @@
   - refineDet
   - voxelnet
   - pointnet/pointnet++/f-pointnet
+  - [DetNet](https://zhuanlan.zhihu.com/p/39702482)
 
 2. object tracking
   - template matching
