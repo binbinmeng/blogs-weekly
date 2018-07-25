@@ -11,6 +11,7 @@
   - voxelnet
   - pointnet/pointnet++/f-pointnet
   - [DetNet](https://zhuanlan.zhihu.com/p/39702482)
+  - [CFENet](https://blog.csdn.net/nwu_NBL/article/details/81087567)
 
 2. object tracking
   - template matching
