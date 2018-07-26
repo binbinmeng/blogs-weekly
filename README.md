@@ -90,6 +90,7 @@
       
  13. 图像处理
  - [二值图像的连通域分析](https://blog.csdn.net/qq_37059483/article/details/78018539)
+ - [ffmpeg](https://blog.csdn.net/leixiaohua1020/article/details/15811977)
  
  14. deep learning framework
  - pytorch [chenyun's pytorch tutorial](https://github.com/chenyuntc/pytorch-book) [tutorial 1](https://github.com/yunjey/pytorch-tutorial) [tutorial 2](https://github.com/MorvanZhou/PyTorch-Tutorial)
