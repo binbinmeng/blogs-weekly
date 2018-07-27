@@ -96,5 +96,8 @@
  - pytorch [chenyun's pytorch tutorial](https://github.com/chenyuntc/pytorch-book) [tutorial 1](https://github.com/yunjey/pytorch-tutorial) [tutorial 2](https://github.com/MorvanZhou/PyTorch-Tutorial)
  - tensorflow [tutorial 1](https://github.com/yunjey/davian-tensorflow)  [tutorial 2](https://github.com/MorvanZhou/Tensorflow-Tutorial) [tutorial 3](https://github.com/MorvanZhou/Tensorflow-Computer-Vision-Tutorial)
 
-15 . interview
+15. interview
   - [阿里图像算法工程师内推电话面试记录](https://www.nowcoder.com/discuss/88050)
+  
+16. non-linear optimization
+  - [cerea solver](https://blog.csdn.net/wzheng92/article/details/79634069) (easier to use than g2o)
