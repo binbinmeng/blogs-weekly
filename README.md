@@ -49,6 +49,7 @@
   - low rank decomposition
   - tucker tensor decomposation
   - [TensorRT](https://github.com/chenzhi1992/TensorRT-SSD)
+  - [some opensource projects](https://blog.csdn.net/zhangjunhit/article/details/78901976)
 
 7. deep learning tricks
   - ohem
