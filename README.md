@@ -102,6 +102,8 @@
 
 15. interview
   - [阿里图像算法工程师内推电话面试记录](https://www.nowcoder.com/discuss/88050)
+  - [top 35 python interview questions](https://data-flair.training/blogs/top-python-interview-questions-answer/)
+  - [python interview](https://github.com/taizilongxu/interview_python#1-python%E7%9A%84%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0%E4%BC%A0%E9%80%92)
   
 16. non-linear optimization
   - [cerea solver](https://blog.csdn.net/wzheng92/article/details/79634069) (easier to use than g2o)
