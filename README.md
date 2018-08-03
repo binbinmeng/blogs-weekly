@@ -97,7 +97,7 @@
  - [ffmpeg](https://blog.csdn.net/leixiaohua1020/article/details/15811977)
  
  14. deep learning framework
- - pytorch [chenyun's pytorch tutorial](https://github.com/chenyuntc/pytorch-book) [tutorial 1](https://github.com/yunjey/pytorch-tutorial) [tutorial 2](https://github.com/MorvanZhou/PyTorch-Tutorial)
+ - pytorch [chenyun's pytorch tutorial](https://github.com/chenyuntc/pytorch-book) [tutorial 1](https://github.com/yunjey/pytorch-tutorial) [tutorial 2](https://github.com/MorvanZhou/PyTorch-Tutorial) [Custom C++ and CUDA Extensions](https://pytorch.org/tutorials/advanced/cpp_extension.html)
  - tensorflow [tutorial 1](https://github.com/yunjey/davian-tensorflow)  [tutorial 2](https://github.com/MorvanZhou/Tensorflow-Tutorial) [tutorial 3](https://github.com/MorvanZhou/Tensorflow-Computer-Vision-Tutorial)
 
 15. interview
