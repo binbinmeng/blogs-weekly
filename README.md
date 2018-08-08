@@ -78,7 +78,7 @@
 
  9. image stitching
   - [RANSAC](https://blog.csdn.net/zinnc/article/details/52319716)
-  
+  - [图像拼接](https://www.zhihu.com/question/20512919/answer/24912005)
  10. visual odometry
  
  11. ROS(foundation of robot)
