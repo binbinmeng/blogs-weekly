@@ -107,3 +107,7 @@
   
 16. non-linear optimization
   - [cerea solver](https://blog.csdn.net/wzheng92/article/details/79634069) (easier to use than g2o)
+  
+17. clustering algorithm
+ - [DBScan](https://www.cnblogs.com/pinard/p/6208966.html)
+ - [HAC](https://blog.csdn.net/eternity1118_/article/details/51520164)
