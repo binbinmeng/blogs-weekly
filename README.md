@@ -50,7 +50,7 @@
   - tucker tensor decomposation
   - [TensorRT](https://github.com/chenzhi1992/TensorRT-SSD)
   - [some opensource projects](https://blog.csdn.net/zhangjunhit/article/details/78901976)
-  - [Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks](https://arxiv.org/pdf/1605.06402.pdf)
+  - [Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks](https://arxiv.org/pdf/1605.06402.pdf) the [website](http://ristretto.lepsucd.com/) and [code](https://github.com/pmgysel/caffe)
 
 7. deep learning tricks
   - ohem
