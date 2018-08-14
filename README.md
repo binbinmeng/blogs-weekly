@@ -28,7 +28,7 @@
 
 4. multi-task
   - blitzNet
-  - PANet
+  - [PANet](https://blog.csdn.net/u011974639/article/details/79595179)
   - maskRCNN
   
 5. classification
