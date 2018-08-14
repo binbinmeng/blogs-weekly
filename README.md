@@ -28,6 +28,8 @@
 
 4. multi-task
   - blitzNet
+  - PANet
+  - maskRCNN
   
 5. classification
   - ResNext
