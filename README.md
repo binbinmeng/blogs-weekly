@@ -63,6 +63,7 @@
   - dilation
   - deconvolution
   - roi pooling
+  - [roi align](https://blog.csdn.net/u011918382/article/details/79455407)
   - [RPN](https://blog.csdn.net/u014380165/article/details/80380669)
   - optimization method(SGD,Adam,RMSProp)
   - [anchor](https://blog.csdn.net/u014380165/article/details/80379812)
