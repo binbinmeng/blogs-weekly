@@ -125,4 +125,8 @@
  
 19. programming
  - [opencv](https://www.w3cschool.cn/opencv/opencv-2gnx28u3.html)
- - [c++](https://www.w3cschool.cn/cplusplus/)
+ - [c++](https://www.w3cschool.cn/cplusplus/) another [good resource](https://github.com/jwasham/practice-cpp)
+ - [c](https://github.com/jwasham/practice-c)
+ - [python](https://github.com/jwasham/practice-python)
+ 
+20. [road map to SDE](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
