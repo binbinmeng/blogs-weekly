@@ -53,6 +53,7 @@
   - [TensorRT](https://github.com/chenzhi1992/TensorRT-SSD)
   - [some opensource projects](https://blog.csdn.net/zhangjunhit/article/details/78901976)
   - [Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks](https://arxiv.org/pdf/1605.06402.pdf) the [website](http://ristretto.lepsucd.com/) and [code](https://github.com/pmgysel/caffe)
+  - [standford cs217](https://cs217.stanford.edu/)
 
 7. deep learning tricks
   - ohem
