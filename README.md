@@ -136,3 +136,6 @@
  - [road map to SDE](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
  - [slam求职建议](https://zhuanlan.zhihu.com/p/28565563)
  - [一篇讲得比较清楚的slam综述](https://zhuanlan.zhihu.com/p/23247395)
+ 
+21. SLAM
+ - [SLAM for dummies](https://zhuanlan.zhihu.com/p/32937247)
