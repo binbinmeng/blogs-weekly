@@ -85,7 +85,7 @@
   - [system that contians object detection, tracking, segmentation](https://github.com/GustavZ/realtime_object_detection)
 
  9. image stitching
-  - [RANSAC](https://blog.csdn.net/zinnc/article/details/52319716)
+  - [RANSAC](https://blog.csdn.net/zinnc/article/details/52319716) [MRPT中较好的实现](https://github.com/zhouxiaofan/mrpt/blob/master/libs/math/src/ransac.cpp)
   - [图像拼接](https://www.zhihu.com/question/20512919/answer/24912005)
  10. visual odometry
  
