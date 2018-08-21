@@ -12,6 +12,8 @@
   - pointnet/pointnet++/f-pointnet
   - [DetNet](https://zhuanlan.zhihu.com/p/39702482)
   - [CFENet](https://blog.csdn.net/nwu_NBL/article/details/81087567)
+  - [Complex-YOLO: Real-time 3D Object Detection on Point Clouds](https://arxiv.org/abs/1803.06199)
+  - [pixor](http://www.cs.toronto.edu/~byang/projects/pixor/pixor_poster.pdf)
 
 2. object tracking
   - template matching
