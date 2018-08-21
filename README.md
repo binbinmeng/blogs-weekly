@@ -132,4 +132,6 @@
  - [c](https://github.com/jwasham/practice-c)
  - [python](https://github.com/jwasham/practice-python)
  
-20. [road map to SDE](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+20. road map
+ - [road map to SDE](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+ - [slam求职建议](https://zhuanlan.zhihu.com/p/28565563)
