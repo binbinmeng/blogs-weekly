@@ -127,10 +127,12 @@
  - [RoN](https://www.cnblogs.com/ironstark/p/5010771.html)
  
 19. programming
+ - [code reading tools: graphviz+codeviz](https://abcdxyzk.github.io/blog/2016/03/21/graphviz-codeviz/)
  - [opencv](https://www.w3cschool.cn/opencv/opencv-2gnx28u3.html)
  - [c++](https://www.w3cschool.cn/cplusplus/) another [good resource](https://github.com/jwasham/practice-cpp) and [c++学习五步法](https://www.zhihu.com/question/20410487)
  - [c](https://github.com/jwasham/practice-c)
  - [python](https://github.com/jwasham/practice-python)
+ 
  
 20. road map
  - [road map to SDE](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
