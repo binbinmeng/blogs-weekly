@@ -139,3 +139,7 @@
  
 21. SLAM
  - [SLAM for dummies](https://zhuanlan.zhihu.com/p/32937247)
+ 
+22. lidar
+ - [apollo perception](https://zhuanlan.zhihu.com/p/33416142)
+ - [apollo cnn seg](https://zhuanlan.zhihu.com/p/35034215)
