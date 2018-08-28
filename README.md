@@ -49,7 +49,7 @@
   - [channel pruning](https://blog.csdn.net/u014380165/article/details/79811779) and [this original paper](https://github.com/yihui-he/channel-pruning)
   - [distill](https://github.com/NervanaSystems/distiller)
   - winograd
-  - [quatization(8bit](https://zhuanlan.zhihu.com/p/42811261) 4bit xnor) and fix-point
+  - [quatization(8bit](https://zhuanlan.zhihu.com/p/42811261) 4bit xnor) and fix-point, [caffe int8 convert tools](https://github.com/BUG1989/caffe-int8-convert-tools)
   - low rank decomposition
   - tucker tensor decomposation
   - [TensorRT](https://github.com/chenzhi1992/TensorRT-SSD)
