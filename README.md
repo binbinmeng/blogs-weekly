@@ -125,7 +125,7 @@
  - road map: API Documentation -> Tutorials -> Media -> github/pcl -> Blog -> User forum
  - [pcl segmentation and classification algorithms](https://blog.csdn.net/xiaoxiaowenqiang/article/details/79873816)
  - [RoN](https://www.cnblogs.com/ironstark/p/5010771.html)
- - [点云配准ICP等](https://blog.csdn.net/Ha_ku/article/details/79755623)
+ - [点云配准ICP等以及拼接](https://blog.csdn.net/Ha_ku/article/details/79755623)
  
 19. programming
  - [code reading tools: graphviz+codeviz](https://abcdxyzk.github.io/blog/2016/03/21/graphviz-codeviz/)
