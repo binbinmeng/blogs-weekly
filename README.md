@@ -146,3 +146,4 @@
 22. lidar
  - [apollo perception](https://zhuanlan.zhihu.com/p/33416142)
  - [apollo cnn seg](https://zhuanlan.zhihu.com/p/35034215)
+ - [good resources](https://github.com/beedotkiran/Lidar_For_AD_references)
