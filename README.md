@@ -56,6 +56,7 @@
   - [some opensource projects](https://blog.csdn.net/zhangjunhit/article/details/78901976)
   - [Ristretto: Hardware-Oriented Approximation of Convolutional Neural Networks](https://arxiv.org/pdf/1605.06402.pdf) the [website](http://ristretto.lepsucd.com/) and [code](https://github.com/pmgysel/caffe) and [colleague's note](https://blog.csdn.net/yingpeng_zhong/article/details/78232693) and [this excellent note](https://blog.csdn.net/xiaoxiaowenqiang/article/details/81713131)
   - [standford cs217](https://cs217.stanford.edu/)
+  - [distill and quantization](https://github.com/antspy/quantized_distillation)
 
 7. deep learning tricks
   - ohem
