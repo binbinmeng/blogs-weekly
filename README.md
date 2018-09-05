@@ -17,7 +17,7 @@
 
 2. object tracking
   - template matching
-  - calman filter 
+  - [kalman filter](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/#mathybits) 
   - KCF
   - LK optical flow
   - [multiple object tracking lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar/issues)
