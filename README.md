@@ -17,7 +17,7 @@
 
 2. object tracking
   - template matching
-  - [kalman filter](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/#mathybits) [浅谈协方差矩阵](http://www.cnblogs.com/chaosimple/p/3182157.html)
+  - [kalman filter](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/#mathybits) [浅谈协方差矩阵](http://www.cnblogs.com/chaosimple/p/3182157.html) [good python jupyternotebook](https://github.com/NirvanaZhou/Kalman-and-Bayesian-Filters-in-Python)
   - KCF
   - LK optical flow
   - [multiple object tracking lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar/issues)
