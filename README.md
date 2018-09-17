@@ -21,6 +21,8 @@
   - KCF
   - LK optical flow
   - [multiple object tracking lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar/issues)
+  - [sort](https://github.com/abewley/sort)
+  - [deeprot](https://github.com/nwojke/deep_sort)
 
 
 3. semantic segmentation
