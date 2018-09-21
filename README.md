@@ -92,6 +92,7 @@
   - [RANSAC](https://blog.csdn.net/zinnc/article/details/52319716) [MRPT中较好的实现](https://github.com/zhouxiaofan/mrpt/blob/master/libs/math/src/ransac.cpp)
   - [图像拼接](https://www.zhihu.com/question/20512919/answer/24912005)
   - [GPU accelerated Natural Image stitching](https://github.com/yhmtsai/GPU-accelerated-Natural-Image-Stitching-with-Global-Similarity-Prior)
+  - [awesome image stitching](https://github.com/amusi/awesome-image-stitching)
  10. visual odometry
  
  11. ROS(foundation of robot)
