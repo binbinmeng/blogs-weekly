@@ -153,3 +153,6 @@
  - [apollo perception](https://zhuanlan.zhihu.com/p/33416142)
  - [apollo cnn seg](https://zhuanlan.zhihu.com/p/35034215)
  - [good resources](https://github.com/beedotkiran/Lidar_For_AD_references)
+ 
+23. opencv
+ - [opencv python tutorial](https://github.com/NirvanaZhou/Learning_OpenCV/tree/master/Python)
