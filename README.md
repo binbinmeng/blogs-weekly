@@ -139,6 +139,7 @@
  - [c++](https://www.w3cschool.cn/cplusplus/) another [good resource](https://github.com/jwasham/practice-cpp) and [c++学习五步法](https://www.zhihu.com/question/20410487)
  - [c](https://github.com/jwasham/practice-c)
  - [python](https://github.com/jwasham/practice-python)
+ - [关于python的面试题](https://github.com/taizilongxu/interview_python)
  
  
 20. road map
