@@ -136,7 +136,7 @@
 19. programming
  - [code reading tools: graphviz+codeviz](https://abcdxyzk.github.io/blog/2016/03/21/graphviz-codeviz/)
  - [opencv](https://www.w3cschool.cn/opencv/opencv-2gnx28u3.html) and another [good tutorial](http://www.opencv.org.cn/opencvdoc/2.3.2/html/doc/tutorials/imgproc/table_of_content_imgproc/table_of_content_imgproc.html#table-of-content-imgproc)
- - [c++](https://www.w3cschool.cn/cplusplus/) another [good resource](https://github.com/jwasham/practice-cpp) and [c++学习五步法](https://www.zhihu.com/question/20410487)
+ - [c++](https://www.w3cschool.cn/cplusplus/) another [good resource](https://github.com/jwasham/practice-cpp) and [c++学习五步法](https://www.zhihu.com/question/20410487) [好的c++资源汇总](https://github.com/amusi/cpp-from-zero-to-one)
  - [c](https://github.com/jwasham/practice-c)
  - [python](https://github.com/jwasham/practice-python)
  - [关于python的面试题](https://github.com/taizilongxu/interview_python)
