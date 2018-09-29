@@ -27,7 +27,7 @@
 
 3. semantic segmentation
   - segnet
-  - enet
+  - [enet](https://github.com/TimoSaemann/ENet/tree/master/Tutorial)
   - erfnet
 
 4. multi-task
