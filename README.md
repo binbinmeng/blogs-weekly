@@ -28,7 +28,7 @@
 3. semantic segmentation
   - segnet
   - [enet](https://github.com/TimoSaemann/ENet/tree/master/Tutorial)
-  - erfnet
+  - [erfnet](https://github.com/Eromera/erfnet_pytorch)
 
 4. multi-task
   - blitzNet
