@@ -2,6 +2,7 @@
 
 ## main contents
 1. object detection
+  - faster R-CNN [一文读懂faster R-CNN](https://zhuanlan.zhihu.com/p/31426458)
   - [RRPN](https://github.com/mjq11302010044/RRPN)
   - rfcn
   - ssd/rrc
