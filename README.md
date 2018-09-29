@@ -77,6 +77,7 @@
   - [affine transform](https://www.matongxue.com/madocs/244.html), the classic y = Wx + b
   - [focal loss](https://blog.csdn.net/qq_34564947/article/details/77200104)
   - [softNMS](https://www.cnblogs.com/zf-blog/p/8532228.html)
+  - [group normalization](http://www.dataguru.cn/article-13318-1.html)
   
  8. projects
   - cross walk detection
