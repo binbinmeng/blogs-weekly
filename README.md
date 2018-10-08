@@ -159,3 +159,6 @@
  
 23. opencv
  - [opencv python tutorial](https://github.com/NirvanaZhou/Learning_OpenCV/tree/master/Python)
+ 
+24. face
+ - [人脸关键点检测](https://www.jianshu.com/p/e4b9317a817f)
