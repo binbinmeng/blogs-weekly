@@ -161,4 +161,4 @@
  - [opencv python tutorial](https://github.com/NirvanaZhou/Learning_OpenCV/tree/master/Python)
  
 24. face
- - [人脸关键点检测](https://www.jianshu.com/p/e4b9317a817f)
+ - [人脸关键点检测](https://www.jianshu.com/p/e4b9317a817f) [准确率如何评价](https://ibug.doc.ic.ac.uk/resources/2nd-facial-landmark-tracking-competition-menpo-ben/)
