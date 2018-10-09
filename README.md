@@ -155,6 +155,7 @@
 22. lidar
  - [apollo perception](https://zhuanlan.zhihu.com/p/33416142)
  - [apollo cnn seg](https://zhuanlan.zhihu.com/p/35034215)
+ - apollo yolo-3d, just for vision 3d object detection and odometry
  - [good resources](https://github.com/beedotkiran/Lidar_For_AD_references)
  
 23. opencv
