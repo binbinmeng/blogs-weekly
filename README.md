@@ -2,6 +2,7 @@
 
 ## main contents
 1. object detection
+  - IoU-Net [1](https://zhuanlan.zhihu.com/p/45422386) [2](https://zhuanlan.zhihu.com/p/45518623) [3](https://zhuanlan.zhihu.com/p/45523921) [4](https://zhuanlan.zhihu.com/p/46576266)
   - faster R-CNN [一文读懂faster R-CNN](https://zhuanlan.zhihu.com/p/31426458)
   - [RRPN](https://github.com/mjq11302010044/RRPN)
   - rfcn
