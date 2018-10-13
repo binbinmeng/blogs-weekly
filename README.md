@@ -164,6 +164,7 @@
 24. face
  - [人脸关键点检测](https://www.jianshu.com/p/e4b9317a817f) [准确率如何评价](https://ibug.doc.ic.ac.uk/resources/2nd-facial-landmark-tracking-competition-menpo-ben/)  [如何训练?](https://github.com/qiexing/face-landmark-localization/issues/33) [另一个大神的实验过程](https://blog.csdn.net/chenriwei2/article/details/49706563) [人脸关键点综述](https://www.jianshu.com/p/e4b9317a817f)
  - [人脸识别准确率评测方式](https://blog.csdn.net/iriszx999/article/details/79879578)
+ - [insight face lfw 99.8%](https://zhuanlan.zhihu.com/p/33750684)
  
 25. math
  - [tylor级数](https://www.bilibili.com/video/av11251323?share_medium=android&share_source=copy_link&bbid=17640273-9BF2-4FC1-B929-A1420F59081D1978infoc&ts=1517936447373) (本质是用多项式函数逼近当前函数,多项式求导是比较方便的)
