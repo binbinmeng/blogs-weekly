@@ -21,7 +21,7 @@
   - template matching
   - [kalman filter](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/#mathybits) [浅谈协方差矩阵](http://www.cnblogs.com/chaosimple/p/3182157.html) [good python jupyternotebook](https://github.com/NirvanaZhou/Kalman-and-Bayesian-Filters-in-Python)
   - KCF
-  - [LK optical flow](https://zhuanlan.zhihu.com/p/33047034) and [notes from cs131n lecture 17](https://github.com/StanfordVL/cs131_notes/blob/master/lecture17/lecture17.pdf)
+  - [LK optical flow](https://zhuanlan.zhihu.com/p/33047034) and [notes from cs131n lecture 17](https://github.com/StanfordVL/cs131_notes/blob/master/lecture17/lecture17.pdf)  and [中文翻译](https://zhuanlan.zhihu.com/p/36916678)
   - [multiple object tracking lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar/issues)
   - [sort](https://github.com/abewley/sort)
   - [deeprot](https://github.com/nwojke/deep_sort)
