@@ -2,6 +2,7 @@
 
 ## main contents
 1. object detection
+  - [coco2018冠军MMDet](https://www.52cv.net/?p=1342) and the [code](https://github.com/open-mmlab/mmdetection)
   - IoU-Net [1](https://zhuanlan.zhihu.com/p/45422386) [2](https://zhuanlan.zhihu.com/p/45518623) [3](https://zhuanlan.zhihu.com/p/45523921) [4](https://zhuanlan.zhihu.com/p/46576266)
   - faster R-CNN [一文读懂faster R-CNN](https://zhuanlan.zhihu.com/p/31426458)
   - [RRPN](https://github.com/mjq11302010044/RRPN)
@@ -79,6 +80,7 @@
   - [affine transform](https://www.matongxue.com/madocs/244.html), the classic y = Wx + b
   - [focal loss](https://blog.csdn.net/qq_34564947/article/details/77200104)
   - [softNMS](https://www.cnblogs.com/zf-blog/p/8532228.html)
+  - [softerNMS](https://www.52cv.net/?p=1434) and the [code](https://github.com/yihui-he/softer-NMS)
   - [group normalization](http://www.dataguru.cn/article-13318-1.html)
   
  8. projects
