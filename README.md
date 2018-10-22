@@ -84,6 +84,7 @@
   - [group normalization](http://www.dataguru.cn/article-13318-1.html)
   
  8. projects
+  - [tensorRT](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html#overview)
   - RFCN (include python layer to c++, c++ to cuda, cuda to tensorRT)
   - cross walk detection
   - lane detection   [pls refer to hzh's work](https://zhouxiaofan.github.io/)
