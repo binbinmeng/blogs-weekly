@@ -94,6 +94,7 @@
   - tensorboard visualize all training process [1](http://tensorboardx.readthedocs.io/en/latest/tutorial_zh.html#id1) [2](https://github.com/lanpa/tensorboardX)
   - pytorch study [marvan zhou's github](https://github.com/MorvanZhou/PyTorch-Tutorial) and [his website](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
   - [system that contians object detection, tracking, segmentation](https://github.com/GustavZ/realtime_object_detection)
+  - [lidar camera calibration](https://github.com/ankitdhall/lidar_camera_calibration)
 
  9. image stitching
   - [RANSAC](https://blog.csdn.net/zinnc/article/details/52319716) [MRPT中较好的实现](https://github.com/zhouxiaofan/mrpt/blob/master/libs/math/src/ransac.cpp)
