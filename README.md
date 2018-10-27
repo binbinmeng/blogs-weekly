@@ -84,6 +84,7 @@
   - [group normalization](http://www.dataguru.cn/article-13318-1.html)
   
  8. projects
+  - [阿波罗1.0源码解析](https://github.com/slam4code/apollo)
   - [三维重建之SFM](https://blog.csdn.net/AIchipmunk/article/details/48132109)
   - [tensorRT](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html#overview)
   - RFCN (include python layer to c++, c++ to cuda, cuda to tensorRT)
