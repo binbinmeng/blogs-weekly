@@ -32,6 +32,8 @@
   - segnet
   - [enet](https://github.com/TimoSaemann/ENet/tree/master/Tutorial)
   - [erfnet](https://github.com/Eromera/erfnet_pytorch)
+  - U-Net
+  - deeplab series
 
 4. multi-task
   - blitzNet
