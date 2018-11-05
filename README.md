@@ -178,3 +178,6 @@
  
 25. math
  - [tylor级数](https://www.bilibili.com/video/av11251323?share_medium=android&share_source=copy_link&bbid=17640273-9BF2-4FC1-B929-A1420F59081D1978infoc&ts=1517936447373) (本质是用多项式函数逼近当前函数,多项式求导是比较方便的)
+ 
+26. [CS 228: Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228/index.html#coursework)
+- [cs228 notes](https://ermongroup.github.io/cs228-notes/)
